@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2o3eKRc0okj8upNW13ptS9kM3uzXZZNeE0TJWVgo+OCsGVs8yuuKDCO2ZftNCranRid5myqT8Vg4gNHqoF8drA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maloy\\Desktop\\KursachFinal\\GrammarCreator\\GrammarCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maloy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.4\\microsoft.netcore.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "C:\\Users\\Maloy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "C:\\Users\\Maloy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x86.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GramEXE\GrammarCreator.pdb
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GramEXE\D3DCompiler_47_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GramEXE\PenImc_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GramEXE\PresentationNative_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GramEXE\vcruntime140_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GramEXE\wpfgfx_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GramEXE\GrammarCreator.exe

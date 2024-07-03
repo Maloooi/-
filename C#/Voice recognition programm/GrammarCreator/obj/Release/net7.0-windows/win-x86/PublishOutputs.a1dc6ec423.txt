@@ -1,0 +1,7 @@
+C:\Users\Maloy\Desktop\KursachFinal\GramEXE\GrammarCreator.pdb
+C:\Users\Maloy\Desktop\KursachFinal\GramEXE\D3DCompiler_47_cor3.dll
+C:\Users\Maloy\Desktop\KursachFinal\GramEXE\PenImc_cor3.dll
+C:\Users\Maloy\Desktop\KursachFinal\GramEXE\PresentationNative_cor3.dll
+C:\Users\Maloy\Desktop\KursachFinal\GramEXE\vcruntime140_cor3.dll
+C:\Users\Maloy\Desktop\KursachFinal\GramEXE\wpfgfx_cor3.dll
+C:\Users\Maloy\Desktop\KursachFinal\GramEXE\GrammarCreator.exe

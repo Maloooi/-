@@ -1,0 +1,34 @@
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.exe
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.pdb
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.Form1.resources
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\refint\GrammarCreator.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.pdb
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\ref\GrammarCreator.dll
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.exe
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.deps.json
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.runtimeconfig.json
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.dll
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\bin\Debug\net7.0-windows\GrammarCreator.pdb
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.csproj.AssemblyReference.cache
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.Form1.resources
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.csproj.GenerateResource.cache
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.AssemblyInfoInputs.cache
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.AssemblyInfo.cs
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.csproj.CoreCompileInputs.cache
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.dll
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\refint\GrammarCreator.dll
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.pdb
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\GrammarCreator.genruntimeconfig.cache
+C:\Users\Maloy\Desktop\KursachFinal\GrammarCreator\obj\Debug\net7.0-windows\ref\GrammarCreator.dll

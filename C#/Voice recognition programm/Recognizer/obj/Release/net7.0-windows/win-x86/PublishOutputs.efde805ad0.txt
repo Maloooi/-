@@ -1,0 +1,7 @@
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\RecEXE\Recognizer.pdb
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\RecEXE\D3DCompiler_47_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\RecEXE\PenImc_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\RecEXE\PresentationNative_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\RecEXE\vcruntime140_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\RecEXE\wpfgfx_cor3.dll
+C:\Users\anton\OneDrive\Рабочий стол\KursachFinal\RecEXE\Recognizer.exe
